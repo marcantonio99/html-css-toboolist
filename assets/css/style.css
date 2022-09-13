@@ -9,10 +9,49 @@ html{
     font-size: 100%;
 }
 
+header{
+    background-color: white;
+}
+
 .title, .logo{
     vertical-align: middle;
 }
 
 .title{
-    font-size: 200%;
+    font-size: 250%;
 }
+
+.container{
+      margin-top: 50px;
+      margin-left: 200px;
+      margin-right: 200px;
+      text-align: center;
+      height: 500px;
+      background-color: white;
+}
+
+body{
+    background-color: #F6F8F9;
+}
+
+.buttons{
+    padding: 2%;
+    text-align: left;
+}
+
+.button1{
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 15%;
+    padding: 0.5%;
+    border-color:transparent;
+}
+
+
+.button2{
+    border-radius: 15%;
+    padding: 0.5%;
+    border: 1px solid;
+}
+
+
