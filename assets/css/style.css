@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: sans-serif;
+    font-size: 100%;
+}
+
+.title, .logo{
+    vertical-align: middle;
+}
+
+.title{
+    font-size: 200%;
+}
