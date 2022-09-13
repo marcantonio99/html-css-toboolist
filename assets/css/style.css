@@ -22,13 +22,23 @@ header{
 }
 
 .container{
-      margin-top: 50px;
+      margin-top: 9px;
       margin-left: 200px;
       margin-right: 200px;
       text-align: center;
       height: 500px;
       background-color: white;
 }
+
+.container2{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    height: 69px;
+    background-color: white;
+}
+
 
 body{
     background-color: #F6F8F9;
