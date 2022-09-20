@@ -11,6 +11,7 @@ html{
 
 header{
     background-color: white;
+    padding: 20px;
 }
 
 .title, .logo{
@@ -21,47 +22,6 @@ header{
     font-size: 250%;
 }
 
-.container{
-      margin-top: 4px;
-      margin-left: 200px;
-      margin-right: 200px;
-      text-align: center;
-      height: 500px;
-      background-color: white;
+.logo{
+    font-size: 1.3rem;
 }
-
-.container2{
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    text-align: center;
-    height: 65px;
-    background-color: white;
-}
-
-
-body{
-    background-color: #F6F8F9;
-}
-
-.buttons{
-    padding: 2%;
-    text-align: left;
-}
-
-.button1{
-    background-color: #47ADF1;
-    color: white;
-    border-radius: 15%;
-    padding: 0.5%;
-    border-color:transparent;
-}
-
-
-.button2{
-    border-radius: 15%;
-    padding: 0.5%;
-    border: 1px solid;
-}
-
-
