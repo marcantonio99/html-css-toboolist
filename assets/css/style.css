@@ -14,6 +14,11 @@ header{
     padding: 20px;
 }
 
+main{
+    padding: 20px;
+
+}
+
 .title, .logo{
     vertical-align: middle;
 }
@@ -99,8 +104,8 @@ li{
 }
 
 .list2{
-    margin-top: 40px
-    margin-bottom: 5px
+    margin-top: 40px;
+    margin-bottom: 5px;
 }
 
 .list{
